@@ -3,6 +3,4 @@
 
 #include <stdlib.h>
 
-void debug_log(char *str);
-
 #endif
